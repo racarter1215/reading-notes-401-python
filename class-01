@@ -1,0 +1,29 @@
+# Class 01
+
+## Pain vs. Suffering
+
+### Pain is necessary for growth and progress.
+
+#### This course will push us all mentally and even physically as we are taught to be ever more self reliant in our studies, and more is asked of us at the same time.
+
+#### One must always be cognizant of why they are inflicting "pain" upon themselves
+
+#### Remembering one's goals and monitoring their progress day to day is a great way to mitigate any uncomfortable feelings during the learning process
+
+
+## Big O
+
+### Big O is the measure of how complex or efficient an algorithm is
+
+#### O(1) - This denotes an algorithm that runs at the same time no matter the size of the data.
+
+#### O(N) - This denotes an algorithm that grows in complexity at a linear rate proportional to input data size.
+
+#### O(N2) - This denotes an algorithm that has performance efficiency directly proportional to the square of the size of the input data set. Nested for loops are found here a lot.
+
+#### O(2N) - This denotes an algorithm whose growth doubles with each additon to the input data set. Recursion is a prime example of this
+
+
+### Logarithms
+
+#### These include binary searches, and are also related to trees.
