@@ -1,1 +1,1 @@
-# reading-notes-pythonclass
+# Reading Notes - Python
